@@ -1,5 +1,5 @@
 # Object-Oriented-Programming
-OOP Source codes along with projects written in JAVA
+OOP Source codes along with projects written in Java programming language
 
 Outline:
 This repository has Java OOP source codes along with projects
